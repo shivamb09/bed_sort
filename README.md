@@ -1,4 +1,5 @@
-#bed_sort
+#Bed_sort
+
 This particular snakemake code was to sort bed files according to chromosome number followed by their start site and then their stop site. These are two big files so we had to sort them efficiently. 
 
 
